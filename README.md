@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **1PIayer/1PIayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=40&center=true&vCenter=true&lines=+Hi👋%2C+I'm+Hüsamettin.)](https://git.io/typing-svg)
-<br>
-<h2>I'm an Electrical and Electronics Engineer</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2CI'm+H%C3%BCsamettin.)](https://git.io/typing-svg)
+# *I'm an Electrical and Electronics Engineer*
+- 🌱 I’m currently working on Embedded Systems
+  
