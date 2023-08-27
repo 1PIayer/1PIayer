@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=772953&size=40&center=true&vCenter=true&lines=+Hi👋%2C+I'm+Hüsamettin.)](https://git.io/typing-svg)
+<br>
+<h2>I'm an Electrical and Electronics Engineer</h2>
